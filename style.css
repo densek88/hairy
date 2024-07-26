@@ -32,7 +32,7 @@ body{
     z-index: 10000;
 }
 #fixed-button {
-    position: fixed;
+   position: fixed;
     bottom: 50px; /* Adjust as needed */
     left: 50%;
     transform: translateX(-50%);
@@ -41,8 +41,8 @@ body{
     font-size:0;
     cursor: pointer;
     z-index: 10001;
-    height: 100px;
-    width: 700px;
+    height: 600px;
+    width: 1500px;
 }
 
 
